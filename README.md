@@ -1,5 +1,5 @@
 
-# Pointers
+# Pointers 
 Examples and explanations of using pointers in C++ for Beginners.
 This code provides examples and explanations of using pointers in C++.
 Pointers are variables that store memory addresses of other variables, allowing indirect access and manipulation of data stored in memory.
