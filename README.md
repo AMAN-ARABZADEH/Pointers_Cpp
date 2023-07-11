@@ -43,6 +43,8 @@ The provided code includes several examples to illustrate the usage of pointers:
 - Using pointers to functions
 - Potential pitfalls with pointers
 
+
+
 Please note that this code is intended as a learning resource for beginners to understand the basics of pointers in C++. 
 For more detailed explanations and advanced usage, refer to the listed sources.
 
@@ -51,3 +53,11 @@ For more detailed explanations and advanced usage, refer to the listed sources.
 - "Pointers in C++" by GeeksforGeeks: [Link](https://www.geeksforgeeks.org/cpp-pointers/)
 - "C++ Pointers" on Wikipedia: [Link](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
 - "C++ Programming Language" by Bjarne Stroustrup
+
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
